@@ -1,0 +1,21 @@
+D:\CSharp\EmailTester\EmailTester\bin\Release\Email Tester.exe
+D:\CSharp\EmailTester\EmailTester\bin\Release\Email Tester.pdb
+D:\CSharp\EmailTester\EmailTester\obj\Release\EmailTester.FrmMain.resources
+D:\CSharp\EmailTester\EmailTester\obj\Release\EmailTester.Properties.Resources.resources
+D:\CSharp\EmailTester\EmailTester\obj\Release\EmailTester.csproj.GenerateResource.Cache
+D:\CSharp\EmailTester\EmailTester\obj\Release\Email Tester.exe
+D:\CSharp\EmailTester\EmailTester\obj\Release\Email Tester.pdb
+D:\CSharp\EmailTester\EmailTester\obj\Release\EmailTester.csprojResolveAssemblyReference.cache
+D:\CSharp\EmailTester\EmailTester\bin\Release\Email Tester.exe.config
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\bin\Release\Email Tester.exe.config
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\Email Tester.exe
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\Email Tester.pdb
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\bin\Release\Email Tester.exe
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\bin\Release\Email Tester.pdb
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\EmailTester.csprojResolveAssemblyReference.cache
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\EmailTester.FrmMain.resources
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\EmailTester.Properties.Resources.resources
+D:\My Projects\03 - Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\EmailTester.csproj.GenerateResource.Cache
+D:\My Projects\02 - WinForm Completed\ZSNIP\Email Tester\EmailTester\EmailTester\bin\Release\Email Tester.exe.config
+D:\My Projects\02 - WinForm Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\Email Tester.exe
+D:\My Projects\02 - WinForm Completed\ZSNIP\Email Tester\EmailTester\EmailTester\obj\Release\Email Tester.pdb
